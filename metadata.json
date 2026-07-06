@@ -1,0 +1,6 @@
+{
+  "name": "TradeFit ERP",
+  "description": "Modern ERP application for fabric suppliers with dashboards, inventory, and proforma/tax invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
